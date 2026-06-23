@@ -21,5 +21,5 @@ I am a Computer Science student interested in web development, cybersecurity, an
 - To-Do List App
 
 ## Contact
-Email: your-email@example.com
-GitHub: your-github-username
+Email: awujaoyiwoduagatha@gmail.com
+awujaoyiwoduagatha 
